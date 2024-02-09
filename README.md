@@ -13,7 +13,7 @@ I am a software programmer who truly loves his job. I greatly enjoy developing a
 
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=zanzarone&theme=dark)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=zanzarone&theme=dark)](https://git.io/streak-stats) -->
 
 [homepage]: #
 [linkedin]: samuele.scatena@gmail.com
