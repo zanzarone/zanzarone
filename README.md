@@ -1,4 +1,16 @@
-<div id="header" align="center">
+<img align="left" width="150" height="150" alt="Samuele Scatena" src="./img/me.png"/>
+
+## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm [Samuele Scatena][homepage]
+
+[![Twitter Follow](https://img.shields.io/badge/linkedin-grey?style=for-the-badge&logo=linkedin)][linkedin]
+
+I am a software programmer who truly loves his job. I greatly enjoy developing applications and I dabble in electronics and IoT. Based in [Lucca]()
+
+[homepage]: #
+[linkedin]: samuele.scatena@gmail.com
+[oslash]: https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=javascript
+
+<!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="150"/>
 <h1>
   Cia0
@@ -13,7 +25,7 @@
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-</div>
+</div> -->
 
 <!--
 **zanzarone/zanzarone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
