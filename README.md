@@ -2,9 +2,9 @@
 
 ## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm [Samuele Scatena][homepage]
 
-[![Twitter Follow](https://img.shields.io/badge/linkedin-grey?style=for-the-badge&logo=linkedin)][linkedin]
-
 I am a software programmer who truly loves his job. I greatly enjoy developing applications and I dabble in electronics and IoT. Based in [Lucca]()
+
+[![Twitter Follow](https://img.shields.io/badge/linkedin-grey?style=for-the-badge&logo=linkedin)][linkedin]
 
 [homepage]: #
 [linkedin]: samuele.scatena@gmail.com
