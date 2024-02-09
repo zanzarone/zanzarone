@@ -4,7 +4,13 @@
 
 I am a software programmer who truly loves his job. I greatly enjoy developing applications and I dabble in electronics and IoT. Based in [Lucca]()
 
-[![Twitter Follow](https://img.shields.io/badge/linkedin-grey?style=for-the-badge&logo=linkedin)][linkedin]
+[![Linkedin Profile](https://img.shields.io/badge/my_profile-grey?style=for-the-badge&logo=linkedin)][linkedin]
+[![X Follow](https://img.shields.io/badge/follow_me-black?style=for-the-badge&logo=X)][linkedin]
+
+- 🔭 I’m currently working on ...
+- 📫 You can reach me by [email](samuele.scatena@gmail.com)
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
 [homepage]: #
 [linkedin]: samuele.scatena@gmail.com
