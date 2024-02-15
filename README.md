@@ -1,8 +1,9 @@
-<img align="left" width="200" height="200" alt="Samuele Scatena" src="./img/me.gif"/>
+<img align="left" width="150" height="150" alt="Samuele Scatena" src="./img/me.gif"/>
 
-## Hi there, I'm [Samuele][homepage]<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+## &nbsp;Hi there, I'm [Samuele][homepage]<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-A passionate programmer driven by curiosity and always eager to improve. I love experimenting with new technologies and enjoy exploring IoT with Arduino. Constantly seeking growth, both personally and professionally. 📍Based in [Lucca](https://eventi.turismo.lucca.it/en/) ☕️ Coffe addicted.
+<p>&nbsp;A passionate programmer driven by curiosity and always eager to improve. I love experimenting with new technologies and enjoy exploring IoT with Arduino. Constantly seeking growth, both personally and professionally. 📍Based in [Lucca](https://eventi.turismo.lucca.it/en/) ☕️ Coffe addicted.</p>
+
 
 <div align="left">
   
